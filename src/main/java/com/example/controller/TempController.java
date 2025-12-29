@@ -1,0 +1,1 @@
+@RestController public class TempController { }
