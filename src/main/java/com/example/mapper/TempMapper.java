@@ -1,1 +1,0 @@
-@Mapper public interface TempMapper { }
