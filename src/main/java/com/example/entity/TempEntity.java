@@ -1,1 +1,0 @@
-@Entity public class TempEntity { }
